@@ -5,7 +5,7 @@
 Python と Streamlit を使用して構築されており、インタラクティブなグリッド表示でチャートを一括確認できます。
 
 ## 📷 スクリーンショット
-<img src="https://via.placeholder.com/800x400?text=App+Screenshot+Placeholder" alt="App Screenshot" width="800">
+![alt text](./img/image.png)
 
 ## ✨ 主な機能
 
